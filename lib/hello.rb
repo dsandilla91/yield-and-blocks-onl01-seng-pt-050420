@@ -3,7 +3,6 @@ def hello_t(array)
  
   while i < array.length 
     yield (array[i])
-  end 
     i = i + 1
   end
  
